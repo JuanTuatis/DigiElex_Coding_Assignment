@@ -6,7 +6,7 @@ to what is being asked.
 
 
 First will be the number of variables to be used.The user must provide an 
-input which is within 1–26. Providing any inputs outside of this 
+input which is within 1â€“26. Providing any inputs outside of this 
 range would result in errors.
 
 
@@ -46,7 +46,7 @@ unmarked values in a different list.
 Step 4 and Step 5:
 For steps 4 and 5, it is just the same process as step 3. However, these 
 stepsmay be skipped once there are no longer binary values that can be 
-compared witheach other. 
+compared witheach other.Â 
 
 
 
@@ -62,3 +62,14 @@ Step 7:
 Here, it simply converts all the prime implicants to their respective Boolean representation. 
 If the value is "0," then it will be considered a NOT representation, while "1" is simply the 
 same.
+
+
+--ALTERNATIVE WAY OF TRYING OUT THE PROGRAM--
+
+1. Open VS Code or any Python IDE installed.
+
+2. Open the folder where the Python file was downloaded.
+
+3. View / Run the code.
+
+--Github Access Link--
